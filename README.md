@@ -28,7 +28,8 @@ Developer Portfolios (showcase your work and skills)
 
 See it in action on GitHub Pages:
 
-<https://.github.io//>
+https://creathorkim.github.io/Admin-Dashboard/
+
 
 Screenshot or animated GIF coming soon!
 
